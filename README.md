@@ -100,3 +100,5 @@ int main()
 	}
 }
 換一種方式畫三角形(while版本)
+
+![image](https://user-images.githubusercontent.com/112918655/197678985-669eaf42-4267-4a97-80e7-63ae8f6616f2.png)
